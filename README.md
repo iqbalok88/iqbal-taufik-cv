@@ -9,7 +9,7 @@ _E-Comm Enthusiast / ex-IBM_
 
 ## E-Commerce website owner (_2018 - present_)
 _Marketer/operation/customer service_
-- Product research
+- Product research and suppliers
 - Offer creation
 - Contents feeding on social media; Facebook and Instagram
 - Works on Ads via Facebook Business Manager, launch campaigns
