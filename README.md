@@ -42,6 +42,15 @@ _Administrator_
 - Passed a corporate audit in 2014 with no major note
 - Collected many positive reviews during my time in IBM Malaysia
 
+## Education
+1994-2000 SDN Rawa roko 1 Bekasi
+
+2000-2003 SMPN 2 Bekasi
+
+2003-2006 SMAN 8 Bekasi
+
+2006-2010 Gunadarma University - Bachelor of economics
+
 ![My business photo](https://i.postimg.cc/tgM0D42h/iqbal.jpg)
 ![reference 1](https://i.postimg.cc/BvJdcwHf/reference2.jpg)
 ![reference 2](https://i.postimg.cc/D0R9rvdx/reference1.jpg)
