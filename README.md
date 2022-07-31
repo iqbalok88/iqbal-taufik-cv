@@ -18,14 +18,14 @@ _Marketer/operation/customer service_
 - Hand the packet(s) to delivery services
 
 ## Helpdesk Specialist @ IBM Malaysia (_June 2014 - June 2017_)
-_Contact center, customer service, problems management_
+_Contact center/customer service/problems management_
 - Manage inbound calls & email pertaining IBM Hardware and software problems
 - Follow up ticket number of problems to Remote engineers and onsite engineers
 - Propose quotation of Labor and parts to customer for non-warranty machines
 - Dispatch resources; engineers, parts, etc, make sure services delivered as per SLA
 
 ## Percall Administrator and business operation focal point @ IBM Indonesia (_April 2011 - June 2014_)
-_Operation support, Administrator, delinquent customer management_
+_Operation support/Administrator/delinquent customer management_
 - Compile data of engineer's activity report submitted via system, analyze potential revenue from repaired non-warranty machines (IBM delivered service first, pay later)
 - Issue draft of billing for invoice, contribute 10-100k USD revenue per month
 - Monitor aging unpaid invoice, conducted collection procedure via Phone and email
