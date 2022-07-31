@@ -1,7 +1,7 @@
 # Iqbal Taufik
 _E-Comm Enthusiast / ex-IBM_
 
-[Linkedin](https://www.linkedin.com/in/iqbal-taufik-75598641/) I [Instagram](https://www.instagram.com/iqbalok/?hl=en) I [Facebook](https://www.facebook.com/iqbaloktaufik) I [Email](mailto:iqbaltaufik88@gmail.com) I [Github](https://iqbalok88.github.io/iqbal-taufik-scv/)
+[Linkedin](https://www.linkedin.com/in/iqbal-taufik-75598641/) I [Instagram](https://www.instagram.com/iqbalok/?hl=en) I [Facebook](https://www.facebook.com/iqbaloktaufik) I [Email](mailto:iqbaltaufik88@gmail.com) I [Github](https://iqbalok88.github.io/iqbal-taufik-cv/)
 
 **Located in Bekasi, West Java, Indonesia**
 
