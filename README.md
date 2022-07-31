@@ -9,19 +9,19 @@ _E-Comm Enthusiast / ex-IBM_
 
 ## E-Commerce website owner (_2018 - present_)
 _Marketer/operation/customer service_
-- Product & supplier research
-- Offer creation
+- Product & supplier research (Fashon niches)
+- Offer creation for promotion
 - Contents feeding on social media; Facebook and Instagram
 - Works on Ads via Facebook Business Manager, launch campaigns
 - Monitor the campaign, manage the FB/Instagram page
 - Answering question/orders via website, FB/Instagram page also via whatsapp
-- If I made a sale(s) , pack the packet and deliver the packet(s) via delivery services by myself
+- Hand the packet(s) to delivery services
 
 ## Helpdesk Specialist @ IBM Malaysia (_June 2014 - June 2017_)
 _Contact center, customer service, problems management_
 - Manage inbound calls & email pertaining IBM Hardware and software problems
 - Follow up ticket number of problems to Remote engineers and onsite engineers
-- Quoting Labor and parts to customer for non-warranty machines
+- Propose quotation of Labor and parts to customer for non-warranty machines
 - Dispatch resources; engineers, parts, etc, make sure services delivered as per SLA
 
 ## Percall Administrator and business operation focal point @ IBM Indonesia (_April 2011 - June 2014_)
