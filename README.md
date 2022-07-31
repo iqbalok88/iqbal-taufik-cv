@@ -9,12 +9,12 @@ _E-Comm Enthusiast / ex-IBM_
 
 ## E-Commerce website owner (_2018 - present_)
 _Marketer/operation/customer service_
-- Product & supplier research (Fashon niches)
+- Product & supplier research (Fashion niches)
 - Offer creation for promotion
 - Contents feeding on social media; Facebook and Instagram
 - Works on Ads via Facebook Business Manager, launch campaigns
 - Monitor the campaign, manage the FB/Instagram page
-- Answering question/orders via website, FB/Instagram page also via whatsapp
+- Respond to question/orders via website, FB/Instagram page also via whatsapp in order to get a sale
 - Hand the packet(s) to delivery services
 
 ## Helpdesk Specialist @ IBM Malaysia (_June 2014 - June 2017_)
