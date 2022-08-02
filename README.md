@@ -43,11 +43,11 @@ _Administrator_
 - Collected many positive reviews during my time in IBM Malaysia
 
 ## Education
-1994-2000 SDN Rawa roko 1 Bekasi
+1994-2000 Elementary school of SDN Rawa roko 1 Bekasi
 
-2000-2003 SMPN 2 Bekasi
+2000-2003 Junior high school of SMPN 2 Bekasi
 
-2003-2006 SMAN 8 Bekasi
+2003-2006 High School of SMAN 8 Bekasi
 
 2006-2010 Gunadarma University - Bachelor of economics
 
