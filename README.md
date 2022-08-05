@@ -20,7 +20,7 @@ _Marketer/operation/customer service_
 _Technology used : FB ads manager, landing page builder, payment aggregator, GIMP, Canva, etc_
 ###### _KPI(s) : Profitable, respond to customer within 5 minutes, send the packet within a day_
 
-## Helpdesk Specialist @ IBM Malaysia (_June 2014 - June 2017_)
+## Helpdesk Specialist @ [IBM Malaysia](https://www.ibm.com/my-en) (_June 2014 - June 2017_)
 _Contact center/customer service/problem management_
 - Manage inbound calls & email pertaining IBM Hardware and software problems
 - Follow up ticket number of problems to Remote engineers and onsite engineers
@@ -30,7 +30,7 @@ _Contact center/customer service/problem management_
 _Technology used : Avaya Phone system, IBM Ticketing system, MS. Excel, MS. Word_
 ###### _Personal KPI(s) : Answer the phone within 10 seconds, Assign ticket# to engineers within 1 hour_
 
-## Percall Administrator and business operation focal point @ IBM Indonesia (_April 2011 - June 2014_)
+## Percall Administrator and business operation focal point @ [IBM Indonesia](https://www.ibm.com/id-en) (_April 2011 - June 2014_)
 _Operation support/Administrator/delinquent customer management_
 - Compile data of engineer's activity report submitted via system, analyze potential revenue from repaired non-warranty machines (IBM delivered service first, pay later)
 - Issue draft of billing for invoice, contribute 10-100k USD revenue per month
@@ -41,7 +41,7 @@ _Operation support/Administrator/delinquent customer management_
 _Technology used : PRIS system, IBM Ticketing system, MS. Excel, MS. Word_
 ###### _Personal KPI(s) : Answer the phone within 10 seconds, Assign ticket# to engineers within 1 hour_
 
-## Treasury staff @ Mandala Multifinance (_October 2010 - March 2011_)
+## Treasury staff @ [Mandala Multifinance](https://mandalafinance.com/id/home/) (_October 2010 - March 2011_)
 _Administrator_
 - Compile customer's loans request documents for Bank's funding
 - Distribute Bank's approved documents back to branches
