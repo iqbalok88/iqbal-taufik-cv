@@ -39,7 +39,7 @@ _Operation support/Administrator/delinquent customer management_
 - Lead Ops support team, travel admin and country system admin on claim submission and issues that occurred daily
 
 _Technology used : PRIS system, IBM Ticketing system, MS. Excel, MS. Word_
-###### _Personal KPI(s) : Answer the phone within 10 seconds, Assign ticket# to engineers within 1 hour_
+###### _Personal KPI(s) : Invoice issued within 3 days after billable receipt received, Activities in system need to be decided whether to be billed, to be waived or to hold at the same day when the data extracted_
 
 ## Treasury staff @ [Mandala Multifinance](https://mandalafinance.com/id/home/) (_October 2010 - March 2011_)
 _Administrator_
