@@ -16,8 +16,9 @@ _Marketer/operation/customer service_
 - Monitor the campaign, manage the FB/Instagram page
 - Respond to question/orders via website, FB/Instagram page also via whatsapp in order to get a sale
 - Hand the packet(s) to delivery services
+
 _Technology used : FB ads manager, landing page builder, payment aggregator, GIMP, Canva, etc_
-## _KPI(s) : Profitable, respond to customer within 5 minutes, send the packet within a day_
+###### _KPI(s) : Profitable, respond to customer within 5 minutes, send the packet within a day_
 
 ## Helpdesk Specialist @ IBM Malaysia (_June 2014 - June 2017_)
 _Contact center/customer service/problem management_
@@ -25,8 +26,9 @@ _Contact center/customer service/problem management_
 - Follow up ticket number of problems to Remote engineers and onsite engineers
 - Propose quotation of Labor and parts to customer for non-warranty machines
 - Dispatch resources; engineers, parts, etc, make sure services delivered as per SLA
+
 _Technology used : Avaya Phone system, IBM Ticketing system, MS. Excel, MS. Word_
-## _Personal KPI(s) : Answer the phone within 10 seconds, Assign ticket# to engineers within 1 hour
+###### _Personal KPI(s) : Answer the phone within 10 seconds, Assign ticket# to engineers within 1 hour_
 
 ## Percall Administrator and business operation focal point @ IBM Indonesia (_April 2011 - June 2014_)
 _Operation support/Administrator/delinquent customer management_
@@ -35,14 +37,16 @@ _Operation support/Administrator/delinquent customer management_
 - Monitor aging unpaid invoice, conducted collection procedure via Phone and email
 - Monitor sales team activity with CFO on retroactive Maintenance/warranty contracts
 - Lead Ops support team, travel admin and country system admin on claim submission and issues that occurred daily
+
 _Technology used : PRIS system, IBM Ticketing system, MS. Excel, MS. Word_
-## _Personal KPI(s) : Answer the phone within 10 seconds, Assign ticket# to engineers within 1 hour
+###### _Personal KPI(s) : Answer the phone within 10 seconds, Assign ticket# to engineers within 1 hour_
 
 ## Treasury staff @ Mandala Multifinance (_October 2010 - March 2011_)
 _Administrator_
 - Compile customer's loans request documents for Bank's funding
 - Distribute Bank's approved documents back to branches
-## _Personal KPI(s) : Send completed fiducia(s) to all branches at the same day_
+
+###### _Personal KPI(s) : Send completed fiducia(s) to all branches at the same day_
 
 ## Achievements
 - Won one million of rupiahs company’s innovation challenge in 2014, title “go green, read on screen”
