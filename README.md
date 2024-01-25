@@ -7,6 +7,17 @@ _E-Comm Enthusiast / ex-IBM_
 
 **Mobile Phone : +62 89670246027**
 
+## Executive - Technical Support @ [Lenovo]([https://www.lenovo.com/my/en/] (_August 2022 - present_) 
+_Technical support/L1/customer service_
+- Manage inbound call/email/chat/E-ticketing via web pertaining Lenovo's computer software/hardware problems
+- Provide Fixed by phone solutions in order to prevent customer visiting service center
+- Raise work order to onsite services provider for hardware problems
+- Manage and follow up case(s) until it's closed
+- Escalate to higher management to get resoltion for customer
+
+_Technology used : Microsoft Dynamic, Remote app Log Me In, PD guide, GIMP_
+###### _KPIs : Receive min 20 Problems report via phone/email/chat/e-ticketing per day, Fixed on Phone, CQM Passed 90%_
+
 ## E-Commerce website owner (_2018 - present_)
 _Marketer/operation/customer service_
 - Product & supplier research (Fashion niches)
