@@ -7,7 +7,7 @@ _E-Comm Enthusiast / ex-IBM_
 
 **Mobile Phone : +62 89670246027**
 
-## Executive - Technical Support @ [Lenovo][https://www.lenovo.com/my/en/] (_August 2022 - present_) 
+## Executive - Technical Support @ [Lenovo](https://www.lenovo.com/my/en/) (_August 2022 - present_) 
 _Technical support/L1/customer service_
 - Manage inbound call/email/chat/E-ticketing via web pertaining Lenovo's computer software/hardware problems
 - Provide Fixed by phone solutions in order to prevent customer visiting service center
