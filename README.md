@@ -10,14 +10,14 @@ _Technical support_
 ## Executive - Technical Support @ [Lenovo](https://www.lenovo.com/my/en/) (_August 2022 - present_) 
 _Executive Technical Support_
 - Manage inbound calls/email/chat/E-ticketing pertaining Lenovo's computer software/hardware problems
-- Troubleshooting remotely to to provide solution (Fixed by phone)
+- Troubleshooting remotely with the customer to provide solutions (Fixed by phone)
 - Eliminate suspects and suggest the correct part(s) that needed to solve hardware problems 
 - Raise work order to onsite services provider 
 - Manage and follow up case(s) until its closed
-- Escalate to management to get permanent resolution for customer's problems
+- Escalate to higher management in order to get permanent resolution for customer's problems
 
 _Technology used : Microsoft Dynamic, Remote apps Log Me In/quick assist, MS office products, GIMP_
-###### _KPIs : Manage minimum 20 Problems reports via phone/email/chat/e-ticketing per day, Fixed on Phone by one call, CQM Passed 90%_
+###### _KPIs : Manage minimum 20 tickets no of reports via phone/email/chat/e-ticketing per day, Fixed on Phone by one call, CQM Passed 90%_
 
 ## E-Commerce website owner (_2018 - present_)
 _Marketer/operation/customer service_
