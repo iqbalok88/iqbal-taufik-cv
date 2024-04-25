@@ -19,7 +19,7 @@ _Executive Technical Support_
 _Technology used : Microsoft Dynamic, Remote apps Log Me In/quick assist, MS office products, GIMP_
 ###### _KPIs : Manage minimum 20 tickets no of reports via phone/email/chat/e-ticketing per day, Fixed on Phone by one call, CQM Passed 90%_
 
-## E-Commerce website owner (_2018 - present_)
+## E-Commerce website owner (_2018 - Hiatus_)
 _Marketer/operation/customer service_
 - Product & supplier research (Fashion niches)
 - Offer creation for promotion
