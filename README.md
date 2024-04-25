@@ -11,7 +11,7 @@ _Technical support_
 _Executive Technical Support_
 - Manage inbound calls/email/chat/E-ticketing pertaining Lenovo's computer software/hardware problems
 - Troubleshooting remotely to to provide solution (Fixed by phone)
-- Eliminate suspects and suggest part(s) that needed to solve hardware problems 
+- Eliminate suspects and suggest the correct part(s) that needed to solve hardware problems 
 - Raise work order to onsite services provider 
 - Manage and follow up case(s) until its closed
 - Escalate to management to get permanent resolution for customer's problems
