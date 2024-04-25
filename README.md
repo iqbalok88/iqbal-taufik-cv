@@ -17,7 +17,7 @@ _Executive Technical Support_
 - Escalate to management to get permanent resolution for customer's problems
 
 _Technology used : Microsoft Dynamic, Remote apps Log Me In/quick assist, MS office products, GIMP_
-###### _KPIs : Manage minimum 20 Problems report via phone/email/chat/e-ticketing per day, Fixed on Phone by one call, CQM Passed 90%_
+###### _KPIs : Manage minimum 20 Problems reports via phone/email/chat/e-ticketing per day, Fixed on Phone by one call, CQM Passed 90%_
 
 ## E-Commerce website owner (_2018 - present_)
 _Marketer/operation/customer service_
