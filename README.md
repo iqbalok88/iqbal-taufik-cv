@@ -8,7 +8,7 @@ _Technical support_
 **Mobile Phone : +60 6636710**
 
 ## Executive - Technical Support @ [Lenovo](https://www.lenovo.com/my/en/) (_August 2022 - present_) 
-_Executive Technical Support_
+_Technical Support/Customer Service/Problem Management_
 - Manage inbound calls/email/chat/E-ticketing pertaining Lenovo's computer software/hardware problems
 - Troubleshooting remotely with the customer to provide solutions (Fixed by phone)
 - Eliminate suspects and suggest the correct part(s) that needed to solve hardware problems 
