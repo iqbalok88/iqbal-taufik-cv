@@ -1,5 +1,5 @@
 # Iqbal Taufik
-_E-Comm Enthusiast / Technical support / Customer service_
+_Technical support_
 
 [Linkedin](https://www.linkedin.com/in/iqbal-taufik-75598641/) I [Instagram](https://www.instagram.com/iqbalok/?hl=en) I [Facebook](https://www.facebook.com/iqbaloktaufik) I [Twitter](https://twitter.com/iqbal_taufik_) I [Email](mailto:iqbaltaufik88@gmail.com) I [Github](https://iqbalok88.github.io/iqbal-taufik-cv/)
 
@@ -8,15 +8,16 @@ _E-Comm Enthusiast / Technical support / Customer service_
 **Mobile Phone : +62 89670246027**
 
 ## Executive - Technical Support @ [Lenovo](https://www.lenovo.com/my/en/) (_August 2022 - present_) 
-_Technical support/L1/customer service_
-- Manage inbound call/email/chat/E-ticketing via web pertaining Lenovo's computer software/hardware problems
-- Provide Fixed by phone solutions in order to prevent customer visiting service center
-- Raise work order to onsite services provider for hardware problems
-- Manage and follow up case(s) until it's closed
-- Escalate to higher management to get resoltion for customer
+_Executive Technical Support_
+- Manage inbound calls/email/chat/E-ticketing pertaining Lenovo's computer software/hardware problems
+- Troubleshooting remotely to to provide solution (Fixed by phone)
+- Eliminate suspects and suggest part(s) that needed to solve hardware problems 
+- Raise work order to onsite services provider 
+- Manage and follow up case(s) until its closed
+- Escalate to management to get permanent resolution for customer's problems
 
-_Technology used : Microsoft Dynamic, Remote app Log Me In, PD guide, GIMP_
-###### _KPIs : Receive min 20 Problems report via phone/email/chat/e-ticketing per day, Fixed on Phone, CQM Passed 90%_
+_Technology used : Microsoft Dynamic, Remote apps Log Me In/quick assist, GIMP_
+###### _KPIs : Receive min 20 Problems report via phone/email/chat/e-ticketing per day, Fixed on Phone by one call, CQM Passed 90%_
 
 ## E-Commerce website owner (_2018 - present_)
 _Marketer/operation/customer service_
