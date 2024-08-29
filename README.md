@@ -16,7 +16,7 @@ _Technical Support/Customer Service/Problem Management_
 - Manage and follow up case(s) until its closed
 - Escalate to higher management in order to get permanent resolution for customer's problems
 
-_Technology used : Microsoft Dynamic, Remote apps Log Me In/quick assist, MS office products, GIMP_
+_Technology used : Microsoft Dynamic, Remote apps Log Me In/quick assist, MS office products_
 ###### _KPIs : Manage minimum 20 tickets no of reports via phone/email/chat/e-ticketing per day, Fixed on Phone by one call, CQM Passed 90%_
 
 ## E-Commerce website owner (_2018 - Hiatus_)
