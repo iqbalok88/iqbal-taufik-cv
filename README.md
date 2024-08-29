@@ -74,6 +74,6 @@ _Administrator_
 
 2006-2010 Gunadarma University - Bachelor of economics
 
-![My business photo](https://i.postimg.cc/C5s0By9p/iqbal-rounded.png)
+![My business photo](https://i.postimg.cc/prp4fpGv/iqbal-rounded-small.png)
 ![reference 1](https://i.postimg.cc/BvJdcwHf/reference2.jpg)
 ![reference 2](https://i.postimg.cc/D0R9rvdx/reference1.jpg)
