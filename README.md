@@ -10,7 +10,7 @@ _Technical support_
 ## Executive - Technical Support @ [Lenovo](https://www.lenovo.com/my/en/) (_August 2022 - present_) 
 _Technical Support/Customer Service/Problem Management_
 - Manage inbound calls/email/chat/E-ticketing pertaining Lenovo's computer software/hardware problems
-- Provide Troubleshoot remotely with the customer to provide solutions (Fix by Contact)
+- Provide Troubleshoot remotely with the customer to deliver solutions (Fix by Contact)
 - Eliminate suspects and suggest the correct part(s) that needed to solve hardware problems 
 - Raise work order to onsite services provider 
 - Manage and follow up open case(s) until its closed
