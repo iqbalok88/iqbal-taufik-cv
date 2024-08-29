@@ -67,8 +67,11 @@ _Administrator_
 
 ## Education
 2006-2010 Gunadarma University - Bachelor of economics
+
 2003-2006 High School of SMAN 8 Bekasi
+
 2000-2003 Junior high school of SMPN 2 Bekasi
+
 1994-2000 Elementary school of SDN Rawa roko 1 Bekasi
 
 ![My business photo](https://i.postimg.cc/prp4fpGv/iqbal-rounded-small.png)
