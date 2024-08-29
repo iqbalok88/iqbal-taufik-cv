@@ -10,16 +10,16 @@ _Technical support_
 ## Executive - Technical Support @ [Lenovo](https://www.lenovo.com/my/en/) (_August 2022 - present_) 
 _Technical Support/Customer Service/Problem Management_
 - Manage inbound calls/email/chat/E-ticketing pertaining Lenovo's computer software/hardware problems
-- Troubleshooting remotely with the customer to provide solutions (Fixed by phone)
+- Provide Troubleshoot remotely with the customer to provide solutions (Fix by Contact)
 - Eliminate suspects and suggest the correct part(s) that needed to solve hardware problems 
 - Raise work order to onsite services provider 
-- Manage and follow up case(s) until its closed
+- Manage and follow up open case(s) until its closed
 - Escalate to higher management in order to get permanent resolution for customer's problems
 
 _Technology used : Microsoft Dynamic, Remote apps Log Me In/quick assist, MS office products_
-###### _KPIs : Manage minimum 20 tickets no of reports via phone/email/chat/e-ticketing per day, Fixed on Phone by one call, CQM Passed 90%_
+###### _KPIs : Manage on average 25 tickets no of problem report via phone/email/chat/e-ticketing per day, Fix on contact by first call, CQM Passed 90%_
 
-## E-Commerce website owner (_2018 - 2022 Hiatus_)
+## E-Commerce website owner (_2018 - 2022_)
 _Marketer/operation/customer service_
 - Product & supplier research (Fashion niches)
 - Offer creation for promotion
@@ -29,7 +29,7 @@ _Marketer/operation/customer service_
 - Respond to question/orders via website, FB/Instagram page also via whatsapp in order to get a sale
 - Hand the packet(s) to delivery services
 
-_Technology used : FB ads manager, landing page builder, payment aggregator, GIMP, Canva, etc_
+_Technology used : FB ads manager, landing page builder, payment aggregator, GIMP, Canva_
 ###### _KPIs : Profitable, respond to customer within 5 minutes, send the packet within a day_
 
 ## Helpdesk Specialist @ [IBM Malaysia](https://www.ibm.com/my-en) (_June 2014 - June 2017_)
