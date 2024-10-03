@@ -9,35 +9,35 @@ _Technical support_
 
 ## Executive - Technical Support @ [Lenovo](https://www.lenovo.com/my/en/) (_August 2022 - present_) 
 _Technical Support/Customer Service/Problem Management_
-- Manage inbound calls/email/chat/E-ticketing pertaining Lenovo's computer software/hardware problems
-- Provide Troubleshoot remotely with the customer to deliver solutions (Fix by Contact)
-- Eliminate suspects and suggest the correct part(s) that needed to solve hardware problems 
-- Raise work order to onsite services provider 
-- Manage and follow up open case(s) until its closed
-- Escalate to higher management in order to get permanent resolution for customer's problems
+- Manage inbound calls/email/chat/E-tickets regarding Lenovo's computer software/hardware issues
+- Provide Troubleshoot remotely with the customer to provide immediate solutions (Fix by Contact)
+- Identify and suggest the correct hardware parts required to resolve issues. 
+- Raise work orders with onsite service providers
+- Manage and follow up on open case(s) until they are resolved
+- Escalate issues to higher management for permanent resolution of customer problems
 
 _Technology used : Microsoft Dynamic, Remote apps Log Me In/quick assist, MS office products_
 ###### _KPIs : Manage on average 25 tickets no of problem report via phone/email/chat/e-ticketing per day, Fix on contact by first call, CQM Passed 90%_
 
 ## E-Commerce website owner (_2018 - 2022_)
 _Marketer/operation/customer service_
-- Product & supplier research (Fashion niches)
-- Offer creation for promotion
-- Upload on social media; Facebook and Instagram to get organic traffic
-- Works on Ads via Facebook Business Manager, launch campaigns
-- Monitor the campaign, manage the FB/Instagram page
+- Conduct Product & supplier focusing on fashion niches
+- Create promotional offers
+- Manage social media (Facebook and Instagram) to drive organic traffic
+- Run ad campaigns using Facebook Business Manager
+- Monitor campaigns, manage social media pages, and respond to customer inquiries/orders via website, social media, and WhatsApp to generate sales
 - Respond to question/orders via website, FB/Instagram page also via whatsapp in order to get a sale
-- Hand the packet(s) to delivery services
+- Handle order fulfillment and coordinate with delivery services
 
 _Technology used : FB ads manager, landing page builder, payment aggregator, GIMP, Canva_
 ###### _KPIs : Profitable, respond to customer within 5 minutes, send the packet within a day_
 
 ## Helpdesk Specialist @ [IBM Malaysia](https://www.ibm.com/my-en) (_June 2014 - June 2017_)
 _Contact center/customer service/problem management_
-- Manage inbound calls & email pertaining IBM Hardware and software problems
-- Follow up ticket number of problems to Remote engineers and onsite engineers
-- Propose quotation of Labor and parts to customer for non-warranty machines
-- Dispatch resources; engineers, parts, etc, make sure services delivered as per SLA
+- Handle inbound calls and emails regarding IBM hardware and software issues
+- Follow up on problem tickets with remote and onsite engineers
+- Provide labor and parts quotations for non-warranty machines
+- Dispatch engineers and parts, ensuring service delivery meets SLAs
 
 _Technology used : Avaya Phone system, IBM Ticketing system, MS. Excel, MS. Word_
 ###### _Personal KPIs : Answer the phone within 10 seconds, Assign ticket# to engineers within 1 hour_
