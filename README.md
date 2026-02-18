@@ -5,7 +5,7 @@ _Executive Technical Support_
 
 **Located in Kuala Lumpur, Malaysia**
 
-**Mobile Phone : +60 6636710**
+**Mobile Phone : +60 176636710**
 
 ## Executive - Technical Support @ [Lenovo](https://www.lenovo.com/my/en/) (_August 2022 - present_) 
 _Technical Support/Customer Service/Problem Management_
